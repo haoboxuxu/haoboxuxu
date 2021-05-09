@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![haoboxuxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=haoboxuxu&show_icons=true&theme=radical)
+![haoboxuxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=haoboxuxu&show_icons=true&theme=Gradient)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=andikaleonardo.andikaleonardo" alt="visitor badge"/>
 
