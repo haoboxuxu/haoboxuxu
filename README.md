@@ -5,11 +5,10 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=andikaleonardo.andikaleonardo" alt="visitor badge"/>
 
 ```
-- 🔭 I’m currently working on 3D engine
-- 🌱 I’m currently learning js, c++ ...
+- 🔭 I’m currently working on iOS development
+- 🌱 I’m currently learning Swift, Objective-C ...
 - 💬 Ask me about(Do I need a girlfriend?)
 - 📫 How to reach me: www.haoboxuxu.top
-- 😄 Pronouns: hummmmm, a WWDC winner?
-- ⚡ Fun fact: Internship in Tencent...
-- 😄 A fun project: [my WWDC playgroundbook](https://github.com/haoboxuxu/WWDC2020-IntoFourDimensions)
+- ⚡️ Fun fact: I'm a lizard man🦎...
+- 😄 A fun project: https://github.com/haoboxuxu/WWDC2020-IntoFourDimensions
 ```
