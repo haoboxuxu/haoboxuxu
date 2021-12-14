@@ -2,7 +2,7 @@
 
 ![haoboxuxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=haoboxuxu&show_icons=true&theme=Gradient)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haoboxuxu&repo=github-readme-stats)](https://github.com/haoboxuxu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoboxuxu&layout=compact)](https://github.com/haoboxuxu/github-readme-stats)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=andikaleonardo.andikaleonardo" alt="visitor badge"/>
 
